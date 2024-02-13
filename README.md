@@ -1,7 +1,7 @@
 # Portfolio🐱
 ## 🔍요약
 * 제작 기간 : 2024.01 ~
-* 사용 기술스택 : HTMl5, CSS3, JavaScript
+* 사용 기술스택 : HTML5, CSS3, JavaScript
 * 구현 페이지: 메인 페이지
 
 ## 📝설명
